@@ -1,2 +1,2 @@
 # docker-postgresql-setup
- a simple PostgreSQL Database set up with Docker
+ A simple Django application running in a Docker container and PostgreSQL setup in another container.
